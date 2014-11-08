@@ -1,4 +1,4 @@
-PATH=~/.local/bin:/usr/local/share/python:/usr/local/share/npm/bin::$PATH
+PATH=~/.local/bin:/usr/local/share/python:/usr/local/share/npm/bin:/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH
 export PATH
 
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
